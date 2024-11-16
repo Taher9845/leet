@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Taher9845/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Taher9845/leet/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Taher9845/leet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Taher9845/leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
