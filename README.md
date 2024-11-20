@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Taher9845/leet/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taher9845/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Taher9845/leet/tree/master/0303-range-sum-query-immutable) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Taher9845/leet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Taher9845/leet/tree/master/0792-binary-search) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Taher9845/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
@@ -75,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Taher9845/leet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Taher9845/leet/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
