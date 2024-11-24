@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Taher9845/leet/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Taher9845/leet/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Taher9845/leet/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Taher9845/leet/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Taher9845/leet/tree/master/0112-path-sum) |
+| [0617-merge-two-binary-trees](https://github.com/Taher9845/leet/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Taher9845/leet/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Taher9845/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Taher9845/leet/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
