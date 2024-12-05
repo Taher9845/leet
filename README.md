@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taher9845/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Taher9845/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Taher9845/leet/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/Taher9845/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Taher9845/leet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Taher9845/leet/tree/master/0792-binary-search) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Taher9845/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Taher9845/leet/tree/master/0257-binary-tree-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Taher9845/leet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
