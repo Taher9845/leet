@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Taher9845/leet/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taher9845/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Taher9845/leet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Taher9845/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Taher9845/leet/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Taher9845/leet/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Taher9845/leet/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Taher9845/leet/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
