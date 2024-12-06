@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taher9845/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Taher9845/leet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Taher9845/leet/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Taher9845/leet/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Taher9845/leet/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Taher9845/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Taher9845/leet/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Taher9845/leet/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Taher9845/leet/tree/master/0338-counting-bits) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Taher9845/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Taher9845/leet/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Taher9845/leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Taher9845/leet/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Taher9845/leet/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/Taher9845/leet/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Taher9845/leet/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Taher9845/leet/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Taher9845/leet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Taher9845/leet/tree/master/0792-binary-search) |
 ## Tree
