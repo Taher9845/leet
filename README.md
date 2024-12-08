@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Taher9845/leet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Taher9845/leet/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taher9845/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Taher9845/leet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Taher9845/leet/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Taher9845/leet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Taher9845/leet/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Taher9845/leet/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Taher9845/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Taher9845/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Taher9845/leet/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Taher9845/leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
