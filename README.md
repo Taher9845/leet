@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Taher9845/leet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Taher9845/leet/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Taher9845/leet/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Taher9845/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Taher9845/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Taher9845/leet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Taher9845/leet/tree/master/0792-binary-search) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Taher9845/leet/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Taher9845/leet/tree/master/0141-linked-list-cycle) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Taher9845/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Taher9845/leet/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Bit Manipulation
 |  |
